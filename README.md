@@ -1,1 +1,18 @@
-# Simulation-and-Manual-PCB-Layout
+# Simulation and Manual PCB Layout
+
+## AIM
+
+## PROBLEM STATEMENT
+
+## EQUIPMENTS REQUIRED
+
+## STEPS
+
+
+## CIRCUIT DIAGRAM
+
+## SIMULATION OUTPUT
+
+## MANUAL PCB LAYOUT (Scanned Image)
+
+## RESULT
